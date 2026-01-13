@@ -1,0 +1,9 @@
+chainlit
+langchain-ollama
+langchain-core
+langchain-openai
+sqlalchemy
+python-dotenv
+pandas
+pytest
+pytest-asyncio
